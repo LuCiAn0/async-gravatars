@@ -137,7 +137,9 @@ Powered By: <a href="http://en.gravatar.com/">Gravatar.com</a>
 
 <script>
 jQuery( document ).ready( function() {
-	$( '.load-gravatar' ).async_gravatars();
+	$( '.load-gravatar' ).async_gravatars( {
+		ssl: true
+	} );
 } );
 </script>
 
