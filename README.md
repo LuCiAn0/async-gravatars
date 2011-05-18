@@ -32,3 +32,5 @@ jQuery( document ).ready( function() {
 } );
 
 ```
+
+License is <a href="http://www.opensource.org/licenses/mit-license.php">MIT</a> style.
