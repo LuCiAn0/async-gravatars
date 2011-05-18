@@ -26,6 +26,6 @@ $.fn.async_gravatars = function( args ) {
 		grav_url += '&r=' + encodeURIComponent( opt.rating );
 
 		$( this ).attr( 'src', grav_url );
-	}
+	} );
 };
 } )( jQuery );
