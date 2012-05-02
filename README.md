@@ -33,4 +33,8 @@ jQuery( document ).ready( function() {
 
 ```
 
+Original blog post <a href="http://josephscott.org/archives/2011/05/delayed-loading-gravatars/">http://josephscott.org/archives/2011/05/delayed-loading-gravatars/</a>
+
+Demo page <a href="http://josephscott.org/code/javascript/async-gravatars/">http://josephscott.org/code/javascript/async-gravatars/</a>
+
 License is <a href="http://www.opensource.org/licenses/mit-license.php">MIT</a> style.
