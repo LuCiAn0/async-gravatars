@@ -42,7 +42,7 @@ $.fn.async_gravatars = function( args ) {
 
 		var email_hash = $( this ).attr( opt.hash_attr );
 
-		var grav_url = host + encodeURIComponent( email_hash ) + '.jpg?';
+		var grav_url = host + encodeURIComponent( email_hash );
 		grav_url += 's=' + encodeURIComponent( opt.size );
 		grav_url += '&d=' + encodeURIComponent( opt.default_img );
 		grav_url += '&r=' + encodeURIComponent( opt.rating );
